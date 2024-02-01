@@ -28,7 +28,7 @@ Led the Software Architecture and Software Development team at Maciel's Agency, 
 
 If you're seeking a seasoned engineer with a passion for innovation and collaboration, let's connect and discuss how I can contribute to your projects. Feel free to explore my repositories to see some of the exciting work I've been involved in!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Eduardo_Werpp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-werpp/)](https://www.linkedin.com/in/eduardo-werpp/)
+[![Linkedin Badge](https://img.shields.io/badge/-Eduardo_Werpp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-werpp-maciel/)](https://www.linkedin.com/in/eduardo-werpp-maciel/)
 [![GitHub Badge](https://img.shields.io/badge/-Eduardowm-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Eduardowm)](https://github.com/Eduardowm)
 [![Email Badge](https://img.shields.io/badge/Email-Me-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:eduardo.wm@hotmail.com)
 
