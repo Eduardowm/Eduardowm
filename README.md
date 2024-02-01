@@ -31,6 +31,7 @@ If you're seeking a seasoned engineer with a passion for innovation and collabor
 [![Linkedin Badge](https://img.shields.io/badge/-Eduardo_Werpp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardowerppmaciel/)](https://www.linkedin.com/in/eduardowerppmaciel/)
 [![GitHub Badge](https://img.shields.io/badge/-Eduardowm-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Eduardowm)](https://github.com/Eduardowm)
 [![Email Badge](https://img.shields.io/badge/Email-Me-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:eduardo.wm@hotmail.com)
+[![Blog Badge](https://img.shields.io/badge/Blog-eduardowerpp.com-blueviolet?style=flat-square&link=https://www.eduardowerpp.com/)](https://www.eduardowerpp.com/)
 
 <!--
 **Eduardowm/Eduardowm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
